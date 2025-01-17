@@ -1,7 +1,9 @@
 **Tela de Login**
+
 Este projeto consiste em uma tela de login funcional desenvolvida com HTML, CSS e JavaScript. O objetivo é validar credenciais básicas e exibir mensagens de erro ou sucesso conforme os dados inseridos.
 
 **Funcionalidades:**
+
 Validação de E-mail: O campo de e-mail aceita apenas endereços válidos no formato usuario@dominio.com.
 Validação de Senha: A senha deve conter no mínimo 6 caracteres.
 Mensagens de Erro/Sucesso:
