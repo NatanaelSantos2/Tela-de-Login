@@ -22,8 +22,6 @@ https://github.com/NatanaelSantos2/Tela-de-Login.git
 3. Abra o arquivo login.html no navegador.
 
 **Estrutura do Projeto:**
-- assets
 - assets/css/style.css
 - assets/js/script.js
-- views
-- viwws/auth/login.html
+- views/auth/login.html
