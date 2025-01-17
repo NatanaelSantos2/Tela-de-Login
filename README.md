@@ -1,5 +1,5 @@
-**Tela de Login**
-
+**Tela de Login**  
+  
 Este projeto consiste em uma tela de login funcional desenvolvida com HTML, CSS e JavaScript. O objetivo é validar credenciais básicas e exibir mensagens de erro ou sucesso conforme os dados inseridos.
 
 **Funcionalidades:**
