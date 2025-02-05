@@ -16,10 +16,12 @@ Sucesso: Exibe uma mensagem caso as credenciais atendam aos critérios.
 
 **Como Executar:**  
 1. Clone este repositório:
-https://github.com/NatanaelSantos2/Tela-de-Login.git
+``
+git clone https://github.com/NatanaelSantos2/Tela-de-Login.git
+``
 
-2. Acesse o diretório do projeto
-3. Abra o arquivo login.html com o vs code.
+3. Acesse o diretório do projeto
+4. Abra o arquivo login.html com o vs code.
 
 **Estrutura do Projeto:**
 - assets/css/style.css
